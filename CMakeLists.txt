@@ -4,3 +4,4 @@ project(EserciziFork)
 
 add_subdirectory(es1Fork)
 add_subdirectory(es2Fork)
+add_subdirectory(es3Fork)
