@@ -58,6 +58,5 @@ int main(void) {
     else {
         printf("Errore nel processo figlio.\n");
     }
-
     return 0;
 }
